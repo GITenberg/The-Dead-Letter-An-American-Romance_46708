@@ -1,4 +1,8 @@
 _repo: The-Dead-Letter-An-American-Romance_46708
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46708-h/images/cover.jpg
 creator:
   author:
     agent_name: Victor, Metta Victoria Fuller
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9505
     wikipedia: http://en.wikipedia.org/wiki/Metta_Victoria_Fuller_Victor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46708#The-Dead-Letter-An-American-Romance
 gutenberg_issued: '2014-08-28'
 gutenberg_type: Text
 identifiers:
